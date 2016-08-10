@@ -1,0 +1,36 @@
+@CHARSET "ISO-8859-1";
+
+a{
+	text-decoration: none;
+}
+
+#box{
+	box-shadow: 5px 5px 2em #4682B4;
+	-webkit-box-shadow: 5px 5px 2em #4682B4;
+	-moz-box-shadow: 5px 5px 2em #4682B4;
+	
+	background: 	#FFFFFF;
+	border-radius:0px 20px 0px 20px;
+	height: 250px;
+	width: 750px;
+	text-align: center;
+	position: absolute;
+	margin-left:280px;
+	margin-top: 50px;
+}
+
+#lista{
+	
+}
+
+#sair{
+	box-shadow: 0px 0px 1em #FF0000;
+-webkit-box-shadow: 0px 0px 1em #FF0000;
+-moz-box-shadow: 0px 0px 1em #FF0000;
+
+border-radius:20px 20px 20px 20px;
+height: 20px;
+width: 110px;
+text-align: center;
+margin-left:320px;
+}

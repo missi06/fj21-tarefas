@@ -1,0 +1,22 @@
+@CHARSET "ISO-8859-1";
+
+#inner {
+  		position:absolute;
+		left:50%;
+		top:50%;
+		margin-left:-390px;
+		margin-top: -315px;
+}
+
+#box{
+	box-shadow: 5px 5px 2em #4B0082;
+	-webkit-box-shadow: 5px 5px 2em #4B0082;
+	-moz-box-shadow: 5px 5px 2em #4B0082;
+	
+	background: 	#FFFFFF;
+	border-radius:0px 20px 0px 20px;
+	height: 250px;
+	width: 750px;
+	text-align: center;
+	position: absolute;
+}
